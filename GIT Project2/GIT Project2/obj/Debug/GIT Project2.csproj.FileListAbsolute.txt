@@ -1,0 +1,6 @@
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\bin\Debug\GIT Project2.exe.config
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\bin\Debug\GIT Project2.exe
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\bin\Debug\GIT Project2.pdb
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\obj\Debug\GIT Project2.csprojResolveAssemblyReference.cache
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\obj\Debug\GIT Project2.exe
+C:\Users\OSantos\Documents\Projects\Fake-Repository\GIT Project2\GIT Project2\obj\Debug\GIT Project2.pdb
