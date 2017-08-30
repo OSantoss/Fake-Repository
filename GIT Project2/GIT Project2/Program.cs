@@ -10,7 +10,8 @@ namespace GIT_Project2
     {
         static void Main(string[] args)
         {
-           
+            Console.Write("Hello Git");
+            Console.ReadKey();
         }
     }
 }
