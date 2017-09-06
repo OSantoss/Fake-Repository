@@ -1,0 +1,9 @@
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\bin\Debug\Calculations.pdb
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.pdb
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.SpirometryApp.resources
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.csproj.GenerateResource.Cache
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\bin\Debug\Calculations.dll.config
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\bin\Debug\Calculations.dll
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\Calculations\obj\Debug\Calculations.dll
