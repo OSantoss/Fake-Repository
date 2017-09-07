@@ -10,7 +10,7 @@ namespace Full_Intergration
     {
         static void Main(string[] args)
         {
-#hello
+
             Console.Write("Hello World");
             Console.ReadKey();
 
