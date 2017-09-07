@@ -1,0 +1,11 @@
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\obj\Debug\TestCalculations.csprojResolveAssemblyReference.cache
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\obj\Debug\TestCalculations.csproj.CoreCompileInputs.cache
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\TestCalculations.dll
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\TestCalculations.pdb
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\nunit.framework.dll
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\Calculations.pdb
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\nunit.framework.xml
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\obj\Debug\TestCalculations.dll
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\obj\Debug\TestCalculations.pdb
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\Calculations.dll
+C:\Users\bvuong\Documents\Visual Studio 2017\Projects\Calculations\TestCalculations\bin\Debug\Calculations.dll.config
